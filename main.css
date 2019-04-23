@@ -9,11 +9,16 @@ body {
   padding: 15px;
   font-size: 2.5rem;
   background-color: #F8F9FA;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .social-tag {
   font-size: 4rem;
   padding: 15px;
   color: black;
+}
+
+.construction {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
