@@ -1,4 +1,18 @@
 body {
   font-family: 'Quicksand';
+}
+
+.social-links {
+  border-radius: 15px;
+  border: 4px solid #C5B358;
+  background-color: white;
+  padding: 15px;
+  font-size: 2rem;
   background-color: #F8F9FA
+}
+
+.social-tag {
+  font-size: 4rem;
+  padding: 15px;
+  color: black;
 }
