@@ -7,8 +7,9 @@ body {
   border: 4px solid #C5B358;
   background-color: white;
   padding: 15px;
-  font-size: 2rem;
-  background-color: #F8F9FA
+  font-size: 2.5rem;
+  background-color: #F8F9FA;
+  margin-top: 20px;
 }
 
 .social-tag {
